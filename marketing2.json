@@ -1,0 +1,56 @@
+{
+    "links": {
+        "discord": "https://discord.gg/horizonmw",
+        "website": "https://www.youtube.com/@HMW-mod",
+        "x": "https://x.com/HorizonMWX"
+    },
+    "motd": {
+        "title": "<span class=\"yellow\"><h2>Message of the Day</h2></span>",
+        "content_short": "",
+        "h3_header": "<h3>^7Welcome to ^4Nightshade!</h3>",
+        "content_long": "<h3><br/>^7We from the ^4HorizonMW ^7Team have worked hard to bring you the experience the original ^3H2M-Mod^7 developers intended—now enhanced with content from ^3MW3^7.<br/><br/>It’s still a work in progress, but this marks a strong step forward.<br/><br/>Have fun, and good luck out there!</h3>",
+        "image_url": "https://shepard.horizonmw.org/motd_image.jpg",
+        "noHtml": false,
+        "template": 2
+    },
+    "featured": [
+        {
+            "tab_title": "Join the Discord",
+            "title": "<span class=\"yellow\"><h2>Discord</h2></span>",
+            "content_short": "",
+            "h3_header": "<h3>Join the Discord</h3>",
+            "content_long": "<h3>Host servers and speak to us and the community directly!</h3>",
+            "popup_action": "discord",
+            "image_url": "https://shepard.horizonmw.org/discord_pic_square.jpg",
+            "thumbnail_url": "https://shepard.horizonmw.org/discord_pic_thumbnail.jpg",
+            "noHtml": false,
+            "template": 2
+        },
+        {
+            "tab_title": "Check our Youtube channel",
+            "title": "<span class=\"yellow\"><h2>Youtube</h2></span>",
+            "content_short": "",
+            "h3_header": "youtube.com/@horizonmw",
+            "content_long": "<h3>Check out our Youtube channel for more awesome videos!</h3>",
+            "popup_action_title": "",
+            "popup_action": "website",
+            "image_url": "https://shepard.horizonmw.org/website_pic_square.jpg",
+            "thumbnail_url": "https://shepard.horizonmw.org/website_pic_thumbnail.jpg",
+            "noHtml": false,
+            "template": 2
+        },
+        {
+            "tab_title": "Follow us on X",
+            "title": "<span class=\"yellow\"><h2>X</h2></span>",
+            "content_short": "",
+            "h3_header": "<h3>Follow us on X</h3>",
+            "content_long": "<h3>Keep up to date with latest news and posts!</h3>",
+            "popup_action_title": "",
+            "popup_action": "x",
+            "image_url": "https://shepard.horizonmw.org/x_pic_square.jpg",
+            "thumbnail_url": "https://shepard.horizonmw.org/x_pic_thumbnail.jpg",
+            "noHtml": false,
+            "template": 2
+        }
+    ]
+}
