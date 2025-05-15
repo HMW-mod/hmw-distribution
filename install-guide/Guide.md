@@ -1,6 +1,14 @@
+### WARNING 
+Some ISPs don't allow torrent downloads, even legitimate ones. A VPN can help, but may violate your ISPs terms of service.  
+
+***We accept NO RESPONSIBILITY for any action your ISP may take against you for violating ToS.***
+ 
+Also, torrenting without a VPN exposes your IP address, which is dangerous.
+You can use VPN while torrenting to hide your actual IP address.
+Make sure to use a VPN which supports P2P (Peer-to-Peer)
 
 Prerequisites:
-- A legitimte copy of Modern Warfare: Remastered (2017) purchased through Steam.
+- A legitimate copy of Modern Warfare: Remastered (2017), purchased through Steam. The Microsoft Store version will not work.
 - qBittorrent (or another torrent client, e.g. Deluge)
 
 1. Download `Call Of duty: Modern Warfare Remasted - Multiplayer` from steam
@@ -9,19 +17,9 @@ Prerequisites:
 3. Click into the Windows Explorer path bar and copy(Ctrl+C) the location  
 ![img](/assets/images/Pasted_image_20250515113948.png)
 4. Open the the `HMW-mod_1.4.0.torrent` [file](/HMW-mod_1.4.0.torrent).  
-
-##### NOTE: 
-Some ISPs don't allow torrent downloads, even legitimate ones. A VPN can help, but may violate your ISPs terms of service.  
-
-***We accept NO RESPONSIBILITY for any action your ISP may take against you for violating ToS.***
-
-##### WARNING: 
-Torrenting without a VPN exposes your IP address, which is dangerous.  
-You can use VPN while torrenting to hide your actual IP address. Make sure to use a VPN which supports P2P (Peer-to-Peer)
-
-5. Paste the copied path into your save at location and **set the `Content layout` to ` Don't create subfolder`like this screenshot  
+5. Paste the copied path into your save at location and **set the `Content layout` to ` Don't create subfolder`, like this screenshot**  
 ![img](/assets/images/Pasted_image_20250515114428.png)
-6. Once the download is done you're folder should look something like this (below), if it didn't you didnt read the step above correctly it might look different, if so you have a **HMW-mod_1.4.0** folder its content should contain `hmw-mod`, `hmw-usermaps`, and a few other files, copy all of those up a folder.  
+6. Once the download is done your folder should look something like this (below). If it didn't, you didnt read the step above correctly, and it might look different. If you have a **HMW-mod_1.4.0** folder its content should contain `hmw-mod`, `hmw-usermaps`, and a few other files, copy all of those up a folder.  
 ![img](/assets/images/post-download.png)  
 7. After you are done downloading, start the launcher and click verify, if you did everything correctly you should have mod 1.4.0 installed succesfully, and the verification should pass.  
 ![img](/assets/images/Launcher_done.png)
