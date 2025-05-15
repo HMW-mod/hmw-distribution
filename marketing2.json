@@ -47,7 +47,7 @@
             "content_long": "<h3>Keep up to date with latest news and posts!</h3>",
             "popup_action_title": "",
             "popup_action": "x",
-            "image_url": "https://github.com/HMW-mod/hmw-distribution/blob/master/x_pic_square.jpg",
+            "image_url": "https://raw.githubusercontent.com/HMW-mod/hmw-distribution/refs/heads/master/x_pic_square.jpg",
             "thumbnail_url": "https://raw.githubusercontent.com/HMW-mod/hmw-distribution/refs/heads/master/x_pic_thumbnail.jpg",
             "noHtml": false,
             "template": 2
