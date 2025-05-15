@@ -9,7 +9,7 @@ Make sure to use a VPN which supports P2P (Peer-to-Peer)
 
 Prerequisites:
 - A legitimate copy of Modern Warfare: Remastered (2017), purchased through Steam. The Microsoft Store version will not work.
-- qBittorrent (or another torrent client, e.g. Deluge)
+- qBittorrent. You can download the official release [here.](https://www.qbittorrent.org/download)
 
 1. Download `Call Of duty: Modern Warfare Remasted - Multiplayer` from steam
 2. Right click and browse local files like this  
