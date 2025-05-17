@@ -9,7 +9,7 @@
         "content_short": "",
         "h3_header": "<h3>^7Welcome to ^4Nightshade!</h3>",
         "content_long": "<h3><br/>^7We from the ^4HorizonMW ^7Team have worked hard to bring you the experience the original ^3H2M-Mod^7 developers intended—now enhanced with content from ^3MW3^7.<br/><br/>It’s still a work in progress, but this marks a strong step forward.<br/><br/>Have fun, and good luck out there!</h3>",
-        "image_url": "https://github.com/HMW-mod/hmw-distribution/blob/master/motd_image.jpg",
+        "image_url": "https://raw.githubusercontent.com/HMW-mod/hmw-distribution/refs/heads/master/motd_image.png",
         "noHtml": false,
         "template": 2
     },
@@ -21,8 +21,8 @@
             "h3_header": "<h3>Join the Discord</h3>",
             "content_long": "<h3>Host servers and speak to us and the community directly!</h3>",
             "popup_action": "discord",
-            "image_url": "https://github.com/HMW-mod/hmw-distribution/blob/master/discord_pic_square.jpg",
-            "thumbnail_url": "https://github.com/HMW-mod/hmw-distribution/blob/master/discord_pic_thumbnail.jpg",
+            "image_url": "https://raw.githubusercontent.com/HMW-mod/hmw-distribution/refs/heads/master/discord_pic_square.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/HMW-mod/hmw-distribution/refs/heads/master/discord_pic_thumbnail.jpg",
             "noHtml": false,
             "template": 2
         },
@@ -34,8 +34,8 @@
             "content_long": "<h3>Check out our Youtube channel for more awesome videos!</h3>",
             "popup_action_title": "",
             "popup_action": "website",
-            "image_url": "https://github.com/HMW-mod/hmw-distribution/blob/master/website_pic_square.jpg",
-            "thumbnail_url": "https://github.com/HMW-mod/hmw-distribution/blob/master/website_pic_thumbnail.jpg",
+            "image_url": "https://raw.githubusercontent.com/HMW-mod/hmw-distribution/refs/heads/master/website_pic_square.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/HMW-mod/hmw-distribution/refs/heads/master/website_pic_thumbnail.jpg",
             "noHtml": false,
             "template": 2
         },
@@ -47,8 +47,8 @@
             "content_long": "<h3>Keep up to date with latest news and posts!</h3>",
             "popup_action_title": "",
             "popup_action": "x",
-            "image_url": "https://github.com/HMW-mod/hmw-distribution/blob/master/x_pic_square.jpg",
-            "thumbnail_url": "https://github.com/HMW-mod/hmw-distribution/blob/master/x_pic_thumbnail.jpg",
+            "image_url": "https://raw.githubusercontent.com/HMW-mod/hmw-distribution/refs/heads/master/x_pic_square.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/HMW-mod/hmw-distribution/refs/heads/master/x_pic_thumbnail.jpg",
             "noHtml": false,
             "template": 2
         }
