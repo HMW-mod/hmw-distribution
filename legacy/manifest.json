@@ -1,0 +1,46 @@
+{
+  "Modules": [
+    {
+      "Name": "mod",
+      "Version": "1.0",
+      "FilesWithHashes": {},
+      "DownloadInfo": {
+        "DownloadPath": "mod-1.0/"
+      }
+    },
+    {
+      "Name": "launcher",
+      "Version": "1.0",
+      "FilesWithHashes": {
+        "HMW Launcher.exe": "a5f1cc37d1f202acb795a8df1ec3651151a14a50fc0ed8a1dc9f25c1453aaced"
+      },
+      "DownloadInfo": {
+        "DownloadPath": "launcher-1.0/"
+      }
+    },
+    {
+      "Name": "launcher",
+      "Version": "1.6",
+      "FilesWithHashes": {
+        "HMW Launcher.exe": "836426d219a568601f48621c159c9387831cb5a7822f69eee4531c064a100420"
+      },
+      "DownloadInfo": {
+        "DownloadPath": "launcher-1.6/"
+      }
+    }
+  ],
+  "IgnorePaths": [
+    "hmw-mod\\logs\\",
+    "h2m-usermaps\\.pad\\",
+    "h2m-usermaps\\",
+    "h2m-mod\\",
+    ".pad\\",
+    "players2\\",
+    "h2m-mod\\logs",
+    "h1.exe",
+    "h2m-mod.exe",
+    "minidumps",
+    "__h1Exe"
+  ],
+  "ManifestGuid": "18710098-f335-4165-b379-1f871ff844f8"
+}

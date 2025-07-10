@@ -1,5 +1,45 @@
-{
+﻿{
   "Modules": [
+    {
+      "Name": "launcher",
+      "Version": "1.0",
+      "FilesWithHashes": {
+        "HMW Launcher.exe": "a5f1cc37d1f202acb795a8df1ec3651151a14a50fc0ed8a1dc9f25c1453aaced"
+      },
+      "DownloadInfo": {
+        "DownloadPath": "launcher-1.0/"
+      }
+    },
+    {
+      "Name": "launcher",
+      "Version": "1.1",
+      "FilesWithHashes": {
+        "HMW Launcher.exe": "fd9ba92fb35734353d80461152dbd84eabd960e8454cad60629e457b5f3f298c"
+      },
+      "DownloadInfo": {
+        "DownloadPath": "launcher-1.1/"
+      }
+    },
+    {
+      "Name": "launcher",
+      "Version": "1.5",
+      "FilesWithHashes": {
+        "HMW Launcher.exe": "8c00db46d787d9e157766db7c6899378c815fc89a673424e8681bd15a52e2cb2"
+      },
+      "DownloadInfo": {
+        "DownloadPath": "launcher-1.5/"
+      }
+    },
+    {
+      "Name": "launcher",
+      "Version": "1.6",
+      "FilesWithHashes": {
+        "HMW Launcher.exe": "836426d219a568601f48621c159c9387831cb5a7822f69eee4531c064a100420"
+      },
+      "DownloadInfo": {
+        "DownloadPath": "launcher-1.6/"
+      }
+    },
     {
       "Name": "mod",
       "Version": "1.0",
@@ -115,8 +155,8 @@
         "hmw-mod\\zone\\hmw_files.ff": "b9f738b5dd93bae263d8772107498f4e70bd877b184447e4a7bf35337f0fbbeb",
         "hmw-mod\\zone\\hmw_killstreak.ff": "5210ff3f58329b1ddeb91ac8bd2989e3beec4660f33f3eea8c2d3458066ad301",
         "hmw-mod\\zone\\hmw_killstreak.pak": "38e3da965a6c190f7cb582b07eacb114cbb40ee53f0dfe5539604597d82ac408",
-        "hmw-mod\\zone\\hmw_launcher.ff": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "hmw-mod\\zone\\hmw_launcher.pak": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "hmw-mod\\zone\\hmw_launcher.ff": "60e05bd1b195af2f94112fa7197a5c88289058840ce7c6df9693756bc6250f55",
+        "hmw-mod\\zone\\hmw_launcher.pak": "60e05bd1b195af2f94112fa7197a5c88289058840ce7c6df9693756bc6250f55",
         "hmw-mod\\zone\\hmw_nightshade.ff": "cb2d63001e5cca8ea915861a8509811a8ef50bf39c22def22f49ab9baf4e6f12",
         "hmw-mod\\zone\\hmw_patch_code_post_gfx_mp.ff": "da867a0a0da68dc63218c2d965c98a9ca335ba889396f3f6a2e47cb8f12b7d3d",
         "hmw-mod\\zone\\hmw_post_gfx.ff": "38bbced6569d897b50b5ca8dc1e8368b345012184e1f989a3cbcc8b2f6a52399",
@@ -163,23 +203,69 @@
       }
     },
     {
-      "Name": "launcher",
-      "Version": "1.0",
+      "Name": "mod",
+      "Version": "1.2",
       "FilesWithHashes": {
-        "HMW Launcher.exe": "a5f1cc37d1f202acb795a8df1ec3651151a14a50fc0ed8a1dc9f25c1453aaced"
+        "hmw-mod.exe": "9af7febd9a99422c70a15b53f1f7555f34f66955d64b868e43e5bca48c845ac3",
+        "hmw-mod\\zone\\de_hmw_common.ff": "81512155e4b38b5c8d9a93f311b34a39e2ff7e3ead3e01c277b53f69bdcdeaa2",
+        "hmw-mod\\zone\\deu_hmw_common.ff": "81512155e4b38b5c8d9a93f311b34a39e2ff7e3ead3e01c277b53f69bdcdeaa2",
+        "hmw-mod\\zone\\eng_hmw_common.ff": "369e3cf95b3df007e9858f5c91222af0521bbc680b69a7f42fd9c8f005027623",
+        "hmw-mod\\zone\\ens_hmw_common.ff": "86e81acf35fa75d3fcdb21e62b2348a04c615ee1500ee75bef240177799fbe18",
+        "hmw-mod\\zone\\hmw_ar1.ff": "f0ecb4fffde8550b6752b7a28aa275aa4a53be20704d2143c4a888e482508584",
+        "hmw-mod\\zone\\hmw_ar1.pak": "7935e7866c69a0abc66ee2c1f34b962beef25aa2d3bcb46e78e2670cb7e8304e",
+        "hmw-mod\\zone\\hmw_attachments.ff": "14c5ba5f5c4c96b66cb2bcedc0cf89d87cb2ce851e20ae2de47d7f3340cb6048",
+        "hmw-mod\\zone\\hmw_dlc_factions.ff": "103e3377d22847b108fd665cf9d3f9631d92425d501b70c96590601905d1f50c",
+        "hmw-mod\\zone\\hmw_dlc_killstreaks.ff": "d0a0b52acd26af2bd4a36baa25e8ccd2db5bb2a29499e0169edadac850d20045",
+        "hmw-mod\\zone\\hmw_files.ff": "f4a0b6509343abf01a14c55202b7837a742789b0410884321dbb9e69f163742b",
+        "hmw-mod\\zone\\hmw_killstreak.ff": "4dc79217cebd4e9679d608cec0ebdb751e34854605cf104b2907b3e5c2635565",
+        "hmw-mod\\zone\\hmw_killstreak.pak": "13a60342a9c28b9b5d97e0e25b2f98904f1b47149004ff2bd3aaea64a6030f93",
+        "hmw-mod\\zone\\hmw_nightshade.ff": "729e4a37bd286224985fa85db19b04d24e01ca1a7ba54a21b4aa55afea2b9875",
+        "hmw-mod\\zone\\hmw_patch_code_post_gfx_mp.ff": "8057484a2793aa2564c11f840c5326307bb224d808011235d008c9289911c083",
+        "hmw-mod\\zone\\hmw_pre_gfx.ff": "e1a4a046e44e4dfc98e668c46ecb1ec31727e5301949c4085eaebb556b7b6d97",
+        "hmw-mod\\zone\\hmw_smg.ff": "9981e3b48cfe0b4dff62bd40da2a260774100d560158e50b7b889dfbba9e1216",
+        "hmw-mod\\zone\\hmw_smg.pak": "60e05bd1b195af2f94112fa7197a5c88289058840ce7c6df9693756bc6250f55",
+        "hmw-usermaps\\mp_alpha\\mp_alpha.ff": "fb3043f0ffeefb2cd04ac3b7be92d490eccc1db58070ebcd6003763fe26f8c92",
+        "hmw-usermaps\\mp_alpha\\mp_alpha.pak": "caba5eb26bb69afb8313c3294e9b93cc8e71773cf57f8668c71acd929dede0f0",
+        "hmw-usermaps\\mp_boneyard\\mp_boneyard_load.ff": "27071b9f5d409411bfb1aa0509ce35611d83dcb6c066a2e0bcd8d3de5b5c7bbd",
+        "hmw-usermaps\\mp_boneyard\\mp_boneyard.ff": "f35e28a6e664b100b54d9866d6846812d1e6957cb5333a825b0c82fe890b3ae0",
+        "hmw-usermaps\\mp_boneyard\\mp_boneyard.pak": "90c0d72a82d8e51f24b4eaa7d6cabd5243b5d43d4f0b82849905d9f95b7a3112",
+        "hmw-usermaps\\mp_bootleg\\mp_bootleg_load.ff": "63224f05d8f4c9f744bf3639a12725e8f1197d0ca07fe6998e655de37067a467",
+        "hmw-usermaps\\mp_bootleg\\mp_bootleg.ff": "9989490c095162f97fb2b3071d98532d8b3cdbb772b6b555953d9efdc08fafe3",
+        "hmw-usermaps\\mp_bootleg\\mp_bootleg.pak": "6e42235a4299e71696d5c901da7bd92bc6fdb177c97f8b0fbd68a7472f44b34c",
+        "hmw-usermaps\\mp_bravo\\mp_bravo_load.ff": "28be21f225de43a80324d0134ffad3716a163b4ff81d8fc9431ecd2e0458c267",
+        "hmw-usermaps\\mp_bravo\\mp_bravo.ff": "0099d678b1e97f116c61871882e3b2adeca02830ebcf6f1a1f62600703b8f898",
+        "hmw-usermaps\\mp_bravo\\mp_bravo.pak": "0bd7b0bfd7cce4b74f90fc826a62bea380589931e444ead628445cfe16ca7e2f",
+        "hmw-usermaps\\mp_derail\\mp_derail_load.ff": "f5c4df51552c00510adf85f1193b57633c0072cc18ca5fa13393f40011a8af37",
+        "hmw-usermaps\\mp_derail\\mp_derail.ff": "71bf2438c1d0418b603823fbd00eb2d61272c98d14aa4910a6577c42669abe03",
+        "hmw-usermaps\\mp_derail\\mp_derail.pak": "3152477e66481f3d0a3495c0f30244cf7b40df8ca95efee99bdee9f7bf367f46",
+        "hmw-usermaps\\mp_dome\\mp_dome_load.ff": "37efb8c96c52e56c982fecdadeaef3fb92cec49bfe9bcdf8314379bfb11140f9",
+        "hmw-usermaps\\mp_dome\\mp_dome.ff": "a4de6ec645d0ecd1c9c01d538b76e2992faeba608c2fe3c6a62e1052e019cb47",
+        "hmw-usermaps\\mp_dome\\mp_dome.pak": "be9c5d7e211733658d4507828968006b7894117e943f8f94fc3e5c288d5db41d",
+        "hmw-usermaps\\mp_favela\\mp_favela.ff": "a394e8eb6121308cb66587115674d2a2f8cf5708be8fb9b2d277da4dbb81927f",
+        "hmw-usermaps\\mp_favela\\mp_favela.pak": "7eee996ce3823360218ad60a2ba000464cbd871dfd883bf6f7a96bdb88aa1247",
+        "hmw-usermaps\\mp_hardhat\\mp_hardhat_load.ff": "2936e49de8c1142156721fa2f8edc8c5452d9d989aeec76322754ec67060b917",
+        "hmw-usermaps\\mp_hardhat\\mp_hardhat.ff": "59744e1959175dc9c1e20e8d2850a5eaf80e93ce8b2700e4736b48beb7846834",
+        "hmw-usermaps\\mp_hardhat\\mp_hardhat.pak": "47ca04d2edcf86e5df73ce86c0fa9d462697d66442efd43eec6d7df3f232f6b2",
+        "hmw-usermaps\\mp_highrise\\mp_highrise_load.ff": "5f50ae85292d9af5d2679cbdc6d47aba606a04661aac4a5d544c42e86d89cb41",
+        "hmw-usermaps\\mp_highrise\\mp_highrise.ff": "fadc12eb02c1900f9131c5dc2b3c65a0f3e2119d884412df6d7a6e640f679657",
+        "hmw-usermaps\\mp_highrise\\mp_highrise.pak": "4c78d78b890178a39701783fcda394a15803123f7784d87f6af7b96baf18601f",
+        "hmw-usermaps\\mp_lambeth\\mp_lambeth_load.ff": "5cb4d11e720e79ed11cab1bf5cf2ace9b20091b2429334726358dc055bd368b5",
+        "hmw-usermaps\\mp_lambeth\\mp_lambeth.ff": "03469c0860e9496a297eb11cabef5f7622c40cc163138e329b65b013b8658ade",
+        "hmw-usermaps\\mp_lambeth\\mp_lambeth.pak": "3b5baed4715853aa2520c52d6f2bcaf22afb79a6b29321a7a89f02a686271f1c",
+        "hmw-usermaps\\mp_paris\\mp_paris_load.ff": "5362183341dd1c4cc98fa4ed0d3b0ce18ebb0cff86291c121fca4551f5bd15f0",
+        "hmw-usermaps\\mp_paris\\mp_paris.ff": "4dd8786fb12e87747859414d389413487bc6f7d1844316001ce1da768fee567f",
+        "hmw-usermaps\\mp_paris\\mp_paris.pak": "feea4246c99f76b6d4717248cf16d4c7ed59fae25108152bb7f2fb20065fe82d",
+        "hmw-usermaps\\mp_rust\\mp_rust_load.ff": "b70f429bd24a9b6be09eae462d88987478e27eaa8825f578f931e13e2be4ad82",
+        "hmw-usermaps\\mp_rust\\mp_rust.ff": "4d0fb4a264fb3b073d325b541f02ba9e83e922b35b2762d9687d040f4f3056a8",
+        "hmw-usermaps\\mp_rust\\mp_rust.pak": "7e1c3c2a769bee0356303c032286e08262ad08348afa9d96df8c204b68eed439",
+        "hmw-usermaps\\mp_terminal\\mp_terminal_load.ff": "c62bf6f962746e7da30e33235b06bf7b54ac692a32324b951b272032ec3d61d1",
+        "hmw-usermaps\\mp_terminal\\mp_terminal.ff": "2ab7ce1d0e4f8c3b19f6a855901171e48aad732100aabdb6fd0bf3d5beb1822f",
+        "hmw-usermaps\\mp_terminal\\mp_terminal.pak": "eb954f61d20674b1203ee240333f01f5ed563e97f83800a0f3d24a37f6844e9c",
+        "hmw-usermaps\\mp_underground\\mp_underground_load.ff": "8bf11493348d4e95195d4b1acd559901f9a5856255fe205b8d2635bc271004a8",
+        "hmw-usermaps\\mp_underground\\mp_underground.ff": "d20a94a00cd79d7932e6daea4f6cd5fe83d15025783ff68e976940b130bc5fc2"
       },
       "DownloadInfo": {
-        "DownloadPath": "launcher-1.0/"
-      }
-    },
-    {
-      "Name": "launcher",
-      "Version": "1.1",
-      "FilesWithHashes": {
-        "HMW Launcher.exe": "fd9ba92fb35734353d80461152dbd84eabd960e8454cad60629e457b5f3f298c"
-      },
-      "DownloadInfo": {
-        "DownloadPath": "launcher-1.1/"
+        "DownloadPath": "mod-1.2/"
       }
     }
   ],
@@ -196,5 +282,5 @@
     "minidumps",
     "__h1Exe"
   ],
-  "ManifestGuid": "77666b76-d593-4e98-92cc-7fe9ebbc9b8d"
+  "ManifestGuid": "3e86a7c0-8481-4eb5-a010-0c8c16ddd160"
 }
