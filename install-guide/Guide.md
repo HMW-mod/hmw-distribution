@@ -16,7 +16,7 @@ Prerequisites:
 ![SteamLoc](/assets/images/Pasted_image_20250515113826.png)
 3. Click into the Windows Explorer path bar and copy(Ctrl+C) the location  
 ![img](/assets/images/Pasted_image_20250515113948.png)
-4. Open the the `HMW-mod_1.4.0.torrent` [file](/HMW-mod_1.4.0.torrent).  
+4. Open the the `HMW-mod_1.5.0.torrent` [file](/HMW-mod_1.5.0.torrent).  
 5. Paste the copied path into your save at location and **set the `Content layout` to ` Don't create subfolder`, like this screenshot**  
 ![img](/assets/images/Pasted_image_20250515114428.png)
 6. Once the download is done your folder should look something like this (below). If it didn't, you didnt read the step above correctly, and it might look different. If you have a **HMW-mod_1.4.0** folder its content should contain `hmw-mod`, `hmw-usermaps`, and a few other files, copy all of those up a folder.  
