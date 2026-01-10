@@ -275,7 +275,7 @@ Hash: SHA256
       "Name": "mod",
       "Version": "1.3",
       "FilesWithHashes": {
-        "hmw-mod.exe": "f5ca9d66ea9c74b9e68b2c25467f4bab987d7f5984e5094a31c6a9eb4d60ec9e",
+        "hmw-mod.exe": "76af55eafc99ecf011aa7a96123a36cb8380765a536de0d4d565fe4addfbe1c6",
         "hmw-mod\\zone\\eng_hmw_common.ff": "c5a7cfb67e98135975051e4cf953528dbefc4921b970f69dde90d1973461a552",
         "hmw-mod\\zone\\hmw_ar1.ff": "4f75e0b568ded6cf9d17fd4d7d561f78e29950ad763c72b4a733f6283024338f",
         "hmw-mod\\zone\\hmw_ar1.pak": "9d1a9f00f13d80dd952afe2c94d0ab586b2503a6b9bb7ec0fb7fc8d3cc8219fe",
@@ -286,16 +286,16 @@ Hash: SHA256
         "hmw-mod\\zone\\hmw_killstreak.pak": "13a60342a9c28b9b5d97e0e25b2f98904f1b47149004ff2bd3aaea64a6030f93",
         "hmw-mod\\zone\\hmw_nightshade.ff": "d7587e448e11cf0feb5b745b0fefb0f5cb2d21b456171851bf062b276c143ca2",
         "hmw-mod\\zone\\hmw_nightshade.pak": "0ef75cf25669b13cb7f2bec89a0bc635b6a770693b6c9d2ecfbe1c76fa45b312",
-        "hmw-mod\\zone\\hmw_patch_code_post_gfx_mp.ff": "a8feda50b0720381248382b3f4ad3361c40135d34bc4861e9841d77249ac6450",
+        "hmw-mod\\zone\\hmw_patch_code_post_gfx_mp.ff": "7fbed27e8157478a19f5d97454c13cff79c72b43689fd30905908c0fd2bca4e4",
         "hmw-mod\\zone\\hmw_patch_code_post_gfx_mp.pak": "20d2898251f3612860a112515b6d8481bfdba91a17746b2de40c00daedf79dd9",
         "hmw-mod\\zone\\hmw_patch_common_mp.ff": "2125ed468de3b2d837c9fa4d7bd7cac3dc18e5a64986407fceb048649927bfca",
-        "hmw-mod\\zone\\hmw_pre_gfx.ff": "95f7df663a7c94869709f33d4977a603aebfb7139cfc1f1e8c296cd847bd11cf",
+        "hmw-mod\\zone\\hmw_pre_gfx.ff": "f4a0c3201c72a2cc891f1c99de29464482902facd350ad66cca78b427dc5a9fc",
         "hmw-mod\\zone\\hmw_shotgun.ff": "fb50d4a35339bf20f471a315c49ff7298cfd2063dd8c37433a53f50adcc52c69",
         "hmw-mod\\zone\\hmw_shotgun.pak": "3d7609c6d3b785ca109c6758af208e2bbcd0021d2bdb3aefaff8bdd10d7dc6ee",
         "hmw-mod\\zone\\hmw_smg.ff": "68c1dae97da034aebd9342f88ac867d33c6eaa8caae2f231280e071abdf65a13",
         "hmw-usermaps\\mp_abandon\\mp_abandon.ff": "ee7cf0624206dcaafbe5cd0e480f7ae4af397a1a4e1c5d020c444132ec50738e",
         "hmw-usermaps\\mp_abandon\\mp_abandon.pak": "be3c8d60a138697362d99aae9f11de7108074a73d65facf4c1d8294407124196",
-        "hmw-usermaps\\mp_afghan\\mp_afghan.ff": "0c1c1d6c67f1434fbe75d6a6eab3ce4f6e343dd0b780337f12344d3bccc0fdbb",
+        "hmw-usermaps\\mp_afghan\\mp_afghan.ff": "410a5685cdfdaccf68d751ff34cf0cb988d84501c85cfd1999dd4e4aaabed948",
         "hmw-usermaps\\mp_afghan\\mp_afghan.pak": "e60aefc4be0a48b90a39ce418f78bda7494de476f7b63135c33b48ee081a8692",
         "hmw-usermaps\\mp_brecourt\\mp_brecourt.ff": "65e6ffc62d98c831a59ed5c246f32e7db2cc98702d11c6d0d91f61311a4ba719",
         "hmw-usermaps\\mp_brecourt\\mp_brecourt.pak": "6707177747a1ac57bf01333ddc9d31e98a0d3e621f11ad508ba37f58d8062465",
@@ -358,22 +358,22 @@ Hash: SHA256
     "minidumps",
     "__h1Exe"
   ],
-  "ManifestGuid": "e239521c-6a50-4ced-bbe3-92ca70ead34d"
+  "ManifestGuid": "e104bf3d-b432-403f-9ec5-7654e217da5e"
 }
 
 -----BEGIN PGP SIGNATURE-----
 Version: BouncyCastle.NET Cryptography (net6.0) v2.4.0+83ebf4a805
 
-iQGvBAEBCAAZBQJpWWPEEhxIb3Jpem9uTVcgVXBkYXRlcgAKCRD3FpcLQMPgKtVN
-C/9hH9ENcOiiifTscgQiL4rEpY0HuwGaSR0LmzLzs0RIubIOGSRz0fw75Q+LpFwy
-xFCQ6wPXfRwp1kxz3mq9CgkSu4PGooFK0W/DpU8gICNeWUOcs7SwlmncNXFm2r6P
-iE3Zi5xVj88/XDOep9VDqvun724H5XWp5vbAczVG44asmHHIpNvxoHylvi6IocdV
-I9mSKYal+wPeotjx33FrcITymot+PApXqAIC/74nguJUyCs/Uv1sYugSpuG2XS8T
-ObvovIRHK9C5dr0P6VXhs+P4XD4ShmDa2fXWnTd2WDHdIGrY+wsERH7gk2X0zDZR
-MR3ZNq5cH2JC/ThHl82MbI1b/u9AnnOcqghWA5dpmWzhSVT4K5xANF10Ze9pSC6a
-22M/K+y3HkYn6ZZ6WttUNm3MA//6pGCrCT88WMZeWIozv+z9+WBw7InQnjjVt+3x
-wuIcZ/LOVS8ZYIz451uoFydLRHsmblGTZ0Hjf8YqoI54yEVZ7KdaZejVQHYZRhBT
-R9c=
-=qP/d
+iQGvBAEBCAAZBQJpYro1EhxIb3Jpem9uTVcgVXBkYXRlcgAKCRD3FpcLQMPgKtcv
+C/4ybliCogFmWbPMFAzJ/0dZPKa6l7ak8Fmen4ZIe2yyJe9uyacI/RhgH3GGki3x
+pbVh11wbupsbeknNKtLyNMIsksdWTNNHTRXK32rK/f5dmdba3KI//S9+5zVeL9mZ
+o6GsyR9RNqSwNaUbqp3PyxdL6LXCstVoITMXf5hucGGweA6nH9LueOW2wBBST9Ye
+mXfd2LTGcoHn95QnHiINaCwcBds7ZXeSN5glygtx+CexMYQLCKKNVp8K9xbbpKIG
+jaMnwwmWsEpkDLTepE6jA98LOqKU5x+6jpPtOjfw1+khLtJ42F52HPxvZMXZ8f77
+4GBCYeOtuhVDtiM8SKrtLFXjYu0C+L+Of6FbiLgvEGPPu447Gi/gqlngORJMIgUl
+LsjlkhBHXTsuyAC0ntjHp44az4qv4rGHzcd3lEGBL1H7uck7mBISbzpVoqgz8+In
+6F0lggTojObjbEtF5e1LxGuIzlNjLU+XFrc54bhQ78sgOEtzAHr54aBvrc1bjYl+
+Uhk=
+=i43J
 -----END PGP SIGNATURE-----
 
