@@ -272,7 +272,7 @@
       "Name": "mod",
       "Version": "1.3",
       "FilesWithHashes": {
-        "hmw-mod.exe": "f5ca9d66ea9c74b9e68b2c25467f4bab987d7f5984e5094a31c6a9eb4d60ec9e",
+        "hmw-mod.exe": "76af55eafc99ecf011aa7a96123a36cb8380765a536de0d4d565fe4addfbe1c6",
         "hmw-mod\\zone\\eng_hmw_common.ff": "c5a7cfb67e98135975051e4cf953528dbefc4921b970f69dde90d1973461a552",
         "hmw-mod\\zone\\hmw_ar1.ff": "4f75e0b568ded6cf9d17fd4d7d561f78e29950ad763c72b4a733f6283024338f",
         "hmw-mod\\zone\\hmw_ar1.pak": "9d1a9f00f13d80dd952afe2c94d0ab586b2503a6b9bb7ec0fb7fc8d3cc8219fe",
@@ -355,5 +355,5 @@
     "minidumps",
     "__h1Exe"
   ],
-  "ManifestGuid": "1615a744-1d61-4849-8584-dac7702774ab"
+  "ManifestGuid": "e104bf3d-b432-403f-9ec5-7654e217da5e"
 }

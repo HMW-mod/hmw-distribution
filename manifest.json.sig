@@ -275,7 +275,7 @@ Hash: SHA256
       "Name": "mod",
       "Version": "1.3",
       "FilesWithHashes": {
-        "hmw-mod.exe": "f5ca9d66ea9c74b9e68b2c25467f4bab987d7f5984e5094a31c6a9eb4d60ec9e",
+        "hmw-mod.exe": "76af55eafc99ecf011aa7a96123a36cb8380765a536de0d4d565fe4addfbe1c6",
         "hmw-mod\\zone\\eng_hmw_common.ff": "c5a7cfb67e98135975051e4cf953528dbefc4921b970f69dde90d1973461a552",
         "hmw-mod\\zone\\hmw_ar1.ff": "4f75e0b568ded6cf9d17fd4d7d561f78e29950ad763c72b4a733f6283024338f",
         "hmw-mod\\zone\\hmw_ar1.pak": "9d1a9f00f13d80dd952afe2c94d0ab586b2503a6b9bb7ec0fb7fc8d3cc8219fe",
@@ -358,22 +358,22 @@ Hash: SHA256
     "minidumps",
     "__h1Exe"
   ],
-  "ManifestGuid": "1615a744-1d61-4849-8584-dac7702774ab"
+  "ManifestGuid": "e104bf3d-b432-403f-9ec5-7654e217da5e"
 }
 
 -----BEGIN PGP SIGNATURE-----
 Version: BouncyCastle.NET Cryptography (net6.0) v2.4.0+83ebf4a805
 
-iQGvBAEBCAAZBQJpYqIDEhxIb3Jpem9uTVcgVXBkYXRlcgAKCRD3FpcLQMPgKkeQ
-C/9C9IZjf3LweXw8WBK0yABFCcvD+hRfYvxX1H6G9vXvIyZnS0aQVUoXkPoSOCAb
-weZdAyECbqAihOjKEzwnJRd3OavtqmUtr8IYicd344mMNor6UMwXJ7vOiZVO9Oa0
-WCPbh3qH+HGBeX3PkCP28gEVHLmNQSR8SWzd0Aw4oViSQ3yGWPHh0mSbN9TIy4xn
-5DNJPFFyIoFq9ZdZHC3TZRY4dMmGtUQ7t9cNnrVyYjrAjz3xXCnmPJd8b34MWP1y
-4EltiMgC0/Un9R+VApx9ujFFYWwq58UalDoiFSZQYZOYFIStjJ301hsaYhbgFsjf
-S47FT00KWXnc6URLQ7VD70c0AWMsiAQoiXrAOlD0BEU/CMNux3/pnYXKxtrKVlPI
-hljueX9KuGI2JkE8qcxvGUBJh4687BsCPOHd0yYpgIegqU5McbPXR34Jq5gdafX/
-GkbG/eDGEKqcHglzGk1mhkQmYVEvvqv9vB1jnZ74F0tvxHSCUhdp0LbkwaTTKLQJ
-n4E=
-=IaG1
+iQGvBAEBCAAZBQJpYro1EhxIb3Jpem9uTVcgVXBkYXRlcgAKCRD3FpcLQMPgKtcv
+C/4ybliCogFmWbPMFAzJ/0dZPKa6l7ak8Fmen4ZIe2yyJe9uyacI/RhgH3GGki3x
+pbVh11wbupsbeknNKtLyNMIsksdWTNNHTRXK32rK/f5dmdba3KI//S9+5zVeL9mZ
+o6GsyR9RNqSwNaUbqp3PyxdL6LXCstVoITMXf5hucGGweA6nH9LueOW2wBBST9Ye
+mXfd2LTGcoHn95QnHiINaCwcBds7ZXeSN5glygtx+CexMYQLCKKNVp8K9xbbpKIG
+jaMnwwmWsEpkDLTepE6jA98LOqKU5x+6jpPtOjfw1+khLtJ42F52HPxvZMXZ8f77
+4GBCYeOtuhVDtiM8SKrtLFXjYu0C+L+Of6FbiLgvEGPPu447Gi/gqlngORJMIgUl
+LsjlkhBHXTsuyAC0ntjHp44az4qv4rGHzcd3lEGBL1H7uck7mBISbzpVoqgz8+In
+6F0lggTojObjbEtF5e1LxGuIzlNjLU+XFrc54bhQ78sgOEtzAHr54aBvrc1bjYl+
+Uhk=
+=i43J
 -----END PGP SIGNATURE-----
 
