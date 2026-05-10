@@ -1,14 +1,14 @@
 {
     "links": {
         "discord": "https://discord.gg/horizonmw",
-        "website": "https://www.youtube.com/@HMW-mod",
+        "website": "https://horizonmw.org/",
         "x": "https://x.com/HorizonMWX"
     },
     "motd": {
         "title": "<span class=\"yellow\"><h2>Message of the Day</h2></span>",
         "content_short": "",
-        "h3_header": "<h3>^7Welcome to ^4Nightshade!</h3>",
-        "content_long": "<h3><br/>^7We from the ^4HorizonMW ^7Team have worked hard to bring you the experience the original ^3H2M-Mod^7 developers intended—now enhanced with content from ^3MW3^7.<br/><br/>It’s still a work in progress, but this marks a strong step forward.<br/><br/>Have fun, and good luck out there!</h3>",
+        "h3_header": "<h3>^7Welcome to ^4v1.6.5!</h3>",
+        "content_long": "<h3>We apologize for the delay in this update, which took longer than anticipated due to unforeseen health and work reasons.</h3>",
         "image_url": "https://raw.githubusercontent.com/HMW-mod/hmw-distribution/refs/heads/master/motd_image.png",
         "noHtml": false,
         "template": 2
